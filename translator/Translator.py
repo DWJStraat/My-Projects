@@ -24,8 +24,7 @@ if language == 'D':
         except: 
             translated.append(i)
 if language == 'C':
-    print('Enter your sentence below:\n', '-'*50)
-    string = input().upper()
+    string = input('Enter your sentence:\n').upper()
     string = string.split()
     for i in string:
         try:
