@@ -1,0 +1,8 @@
+{
+  "token": "token",
+  "ip": "localhost",
+  "port": "25565",
+  "username": "username",
+  "channel": "channel",
+  "auth": "microsoft"
+}

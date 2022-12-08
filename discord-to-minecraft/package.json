@@ -1,0 +1,8 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "mineflayer": "^4.5.1"
+  }
+}
