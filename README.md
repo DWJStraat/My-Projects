@@ -1,5 +1,2 @@
 # My-Projects
-aaaaa
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+A collection of small programming projects
