@@ -1,0 +1,7 @@
+{
+  "host": "hostname",
+  "port": "port",
+  "username": "microsoft_email",
+  "auth": "microsoft",
+  "xp_per_day": 800
+}
