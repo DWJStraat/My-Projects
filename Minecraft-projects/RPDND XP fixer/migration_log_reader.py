@@ -56,6 +56,6 @@ def save_json(data, file=None):
         json.dump(data, f, indent=4)
 
 
-a = read_file(file=r'C:\Users\dstra\Downloads\migration_log.txt')
+a = read_file()
 b = get_messages(a)
-save_json(b, file=r'C:\Users\dstra\Downloads\migration_log.json')
+save_json(b, file=r'.\migration_log.json')
