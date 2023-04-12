@@ -3,5 +3,7 @@
   "port": "port",
   "username": "microsoft_email",
   "auth": "microsoft",
-  "xp_per_day": 800
+  "xp_per_day": 800,
+  "bonus_xp": 0,
+  "starting_xp": 2700
 }
