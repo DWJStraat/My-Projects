@@ -1,0 +1,1 @@
+An attempt at accessing and analyzing the data from the game [Politics and War](https://politicsandwar.com/).
